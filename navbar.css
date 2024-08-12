@@ -150,6 +150,12 @@ nav ul a li::after {
         border-right: none;
         margin-right: none;
     }
+
+    .web-title{
+        font-size: 0.5rem;
+        position: absolute;
+        top: 2vh;
+    }
     
     .web-links ul a li {
         border-right: none;
