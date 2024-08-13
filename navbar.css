@@ -156,6 +156,9 @@ nav ul a li::after {
         position: absolute;
         top: 2vh;
     }
+    .school-img a img{
+        top: 2vh;
+    }
     
     .web-links ul a li {
         border-right: none;
