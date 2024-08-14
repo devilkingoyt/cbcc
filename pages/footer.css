@@ -13,13 +13,16 @@ footer div{
 .foot-center{
     flex-grow: 2;
 }
-
+footer a:hover{
+    color: lavender;
+}
 .foot-right a{
     display: inline-block;
     text-decoration: none;
     color: #efefef;
     margin-right: 10px;
     font-size: 1.5rem;
+    transition: 0.5s ease-in-out;
 }
 footer div h3{
     font-weight: 300;
